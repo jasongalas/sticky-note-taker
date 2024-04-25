@@ -5,10 +5,18 @@ Remind me later
 In this 11th module, the front end was all built out for us, and our challenge was to build the backstage, behind the scenes magic to make it function. This was the first backend project that would be deployed online, so it was lots of trouble shooting and turning undefined(s) into defined(s). It's another great little note taker app, one that doesn't save to local storage.
 
 ## Installation
-This works in your browser, so no installation required.
+This works in your browser, so no installation required: https://sticky-note-taker.onrender.com/
 
 ## Usage
 Another nifty little site for you to write out your to-dos, to save them, delete them, at your leisure.
+
+```md
+![Landing Page](graphic-designer-lite/examples/logo.svg)
+```
+
+```md
+![Notes Page](graphic-designer-lite/examples/logo.svg)
+```
 
 ## Credits
 Drew's speedrun came in clutch, as life got in the way of getting this done otherwise.
